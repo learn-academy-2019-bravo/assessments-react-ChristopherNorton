@@ -90,9 +90,11 @@ The state is an instance of React Component Class can be defined as an object of
 
 
  //Your Answer
-
+State is the current value of a property of an object that can be altered or called upon. Properties can pass functions that alter or call upon state within or between components.
 
  //Googled Answer
-
+In a React component, props are variables passed to it by its parent component. State on the other hand is still variables, but directly initialized and managed by the component.
 
 #### 9. Write a paragraph or so about your experience with building tic-tac-toe. Some topics to start with might be: things you learned about yourself, concepts from React that stood out to you, something about pair programming (if you paired), or the experience of building something in code from scratch.
+
+In building tic-tac-toe, I am still a little shaky on passing props between components. I think I have a pretty firm grasp on calling on and altering states, however I am still learning how passed props are displayed and pass information upstream. I was able to contribute more the the javascript functionality of the project rather than the react components. It was very fun to build a piece of code that was interactive and had actual behaviors. I was very excited to experience the result of building a piece of code from the ground up.
